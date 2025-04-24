@@ -1,0 +1,25 @@
+{
+    "countries": [
+      { "id": 1, "country": "United States", "population": 331.89, "fact": "The U.S. has the world's largest economy and is home to Silicon Valley." },
+      { "id": 2, "country": "China", "population": 1439.32, "fact": "China is the most populous country in the world." },
+      { "id": 3, "country": "India", "population": 1428.63, "fact": "India is the largest democracy in the world." },
+      { "id": 4, "country": "Russia", "population": 146.17, "fact": "Russia is the largest country by land area, spanning 11 time zones." },
+      { "id": 5, "country": "Brazil", "population": 214.33, "fact": "Brazil is the largest coffee producer in the world." },
+      { "id": 6, "country": "Indonesia", "population": 277.53, "fact": "Indonesia is the largest archipelago in the world with over 17,000 islands." },
+      { "id": 7, "country": "Pakistan", "population": 240.49, "fact": "Pakistan is home to K2, the second-highest peak in the world." },
+      { "id": 8, "country": "Nigeria", "population": 223.80, "fact": "Nigeria is the most populous country in Africa." },
+      { "id": 9, "country": "Bangladesh", "population": 173.02, "fact": "Bangladesh has one of the highest population densities in the world." },
+      { "id": 10, "country": "Mexico", "population": 128.65, "fact": "Mexico introduced chocolate, chilies, and corn to the world." },
+      { "id": 11, "country": "Japan", "population": 123.29, "fact": "Japan has the oldest population, with more than 28% aged 65 or older." },
+      { "id": 12, "country": "Ethiopia", "population": 126.53, "fact": "Ethiopia is considered the birthplace of coffee." },
+      { "id": 13, "country": "Philippines", "population": 117.34, "fact": "The Philippines has over 7,600 islands." },
+      { "id": 14, "country": "Egypt", "population": 112.72, "fact": "Egypt is home to the Great Pyramid of Giza, the only remaining Wonder of the Ancient World." },
+      { "id": 15, "country": "Vietnam", "population": 100.87, "fact": "Vietnam is a leading exporter of rice and coffee." },
+      { "id": 16, "country": "Turkey", "population": 86.04, "fact": "Turkey is located on two continents, Europe and Asia." },
+      { "id": 17, "country": "Germany", "population": 83.90, "fact": "Germany is known for its engineering and is the largest economy in Europe." },
+      { "id": 18, "country": "France", "population": 65.58, "fact": "France is the most visited country in the world, with over 89 million tourists annually." },
+      { "id": 19, "country": "United Kingdom", "population": 67.22, "fact": "The UK is home to the world's oldest underground railway, the London Underground." },
+      { "id": 20, "country": "Italy", "population": 58.42, "fact": "Italy has the most UNESCO World Heritage Sites of any country, with 58 sites." }
+    ]
+  }
+  

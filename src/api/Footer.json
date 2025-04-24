@@ -1,0 +1,23 @@
+{
+    "company": [
+        {"id": "company-001"},
+        {"name": "World Atlas"},
+        {"copyright": "© 2025 World Atlas. All rights reserved."}
+    ],
+      "contact": [
+        {"id": "contact-001"},
+        {"email":"roshankhus2@gmail.com"}
+      ],
+    "quick_links": [
+      { "id": "link-001", "name": "Home", "url": "/" },
+      { "id": "link-002", "name": "About", "url": "/about" },
+      { "id": "link-003", "name": "Country", "url": "/country" },
+      { "id": "link-004", "name": "Contact", "url": "/contact" }
+    ],
+    "social_media": [
+      { "id": "social-001", "name": "FaFacebookF", "url": "https://www.facebook.com/share/12HYbxX6LrT/" },
+      { "id": "social-002", "name": "FaInstagram", "url": "https://www.instagram.com/kushwaharoshan420//" },
+      { "id": "social-003", "name": "FaLinkedin", "url": "https://www.linkedin.com/in/roshan-kumar-5119a6250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app&original_referer=" }
+    ]
+  }
+  
